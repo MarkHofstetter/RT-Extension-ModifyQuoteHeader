@@ -38,12 +38,10 @@ AUTHOR
     Mark Hofstetter <mark.hofstetter@univie.ac.at>
 
 BUGS
-    All bugs should be reported via email to
-
 
     or via the web at
 
-        L<rt.cpan.org|http://rt.cpan.org/Public/Dist/Display.html?Name=RT-Extension-ModifyQuoteHeader>.
+        L<https://github.com/MarkHofstetter/RT-Extension-ModifyQuoteHeader/issues>.
 
 LICENSE AND COPYRIGHT
     This software is Copyright (c) 2017 by Mark Hofstetter
